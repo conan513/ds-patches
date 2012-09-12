@@ -9,8 +9,8 @@ Included:
 
 Install:
 -
-1. Copy all files and folders into Dark Souls Data folder.
-(In the pirated version, copy the files in the main directory)
+1. Copy all files and folders into Dark Souls\Data folder.
+(In the pirated version, copy the files and folders into the main directory)
 
 2. Configure the graphics settings in the dsfix.ini file.
 
