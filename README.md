@@ -12,7 +12,7 @@ Install:
 1. Copy all files and folders into Dark Souls\Data folder.
 (In the pirated version, copy the files and folders into the main directory)
 
-2. Configure the graphics settings in the dsfix.ini file.
+2. Configure the graphics settings in the DSfix.ini file.
 
 
 Donate my other server and mod packs
