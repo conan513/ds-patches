@@ -1,4 +1,4 @@
-Dark Souls: Prepare to Die Edition fixes and patches for PC version
+Dark Souls: Prepare to Die Edition patches for PC version
 =================================================================
 All available patch added to fix all problems in the PC version.
 
