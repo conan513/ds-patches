@@ -4,8 +4,8 @@ All available patch added to fix all problems in the PC version.
 
 Included:
 -
-Dark Souls Fix (DSFix) http://blog.metaclassofnil.com/
-Dark Souls Mouse Fix (DSMFix) http://pages.cs.wisc.edu/~petska/
+- Dark Souls Fix (DSFix) http://blog.metaclassofnil.com/
+- Dark Souls Mouse Fix (DSMFix) http://pages.cs.wisc.edu/~petska/
 
 Install:
 -
