@@ -1,6 +1,6 @@
 Dark Souls: Prepare to Die Edition patches
 =====================================
-I try to collect all available fixes for PC version of Dark Souls: Prepare to Die Edition.
+I try to collect all available fixes for Dark Souls: Prepare to Die Edition.
 
 Included:
 -
