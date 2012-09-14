@@ -1,3 +1,14 @@
+14-09-2012 -- version 1.4 beta
+==============================
+Bugfixes:
+- textures with a hash code starting with 0 will now be correctly named when dumped
+  and loaded when overriden (with prefix 0s)
+- (hopefully) fixed another alt-tab crash cause
+- fixed modified HUD performance, particularly in conjunction with SMAA and VSSAO
+- fixed modified HUD not showing effects like poison or bleeding correctly
+- various code cleanups
+
+
 13-09-2012 -- version 1.3 beta
 ==============================
 Bugfixes:

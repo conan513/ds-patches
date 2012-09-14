@@ -1,4 +1,4 @@
-DSfix 1.3 by Durante -- README
+DSfix 1.4 by Durante -- README
 ==============================
 
 **Please read this whole document before running anything!**
