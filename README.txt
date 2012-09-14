@@ -1,4 +1,4 @@
-DSfix 1.2 by Durante -- README
+DSfix 1.3 by Durante -- README
 ==============================
 
 **Please read this whole document before running anything!**
@@ -29,6 +29,7 @@ As of version 0.4, it seems to work well for many people, however your mileage m
 Are there known issues?
 =======================
 - At vertical resolutions higher than 720 the sun may not be rendered correctly under some circumstances. This is under investigation, any insight is appreciated.
+- When using custom HUD settings damage numbers and subtitles are not handled correctly
 
 Will it cause performance problems?
 ===================================
@@ -73,7 +74,7 @@ Thanks to
 - The authors of SMAA
 - The authors of the OBGE VSSAO effect
 - The artists of:
-Crow's Claw, Demetori, Silver Forest, Foreground Eclipse, Thousand Leaves, Undead Corporation, Unlucky Morpheus, Dark Phoenix, Aquaelie, TAMUSIC, Riverside, xi-on, SAVE THE QUEEN, East New Sound and Shinigawa Satellite
+Crow's Claw, Demetori, Silver Forest, Foreground Eclipse, Thousand Leaves, Undead Corporation, Unlucky Morpheus, Dark Phoenix, Aquaelie, TAMUSIC, Riverside, Kissing the Mirror, xi-on, SAVE THE QUEEN, East New Sound and Shinigawa Satellite
 for providing the development soundtrack
 
 
