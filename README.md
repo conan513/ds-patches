@@ -6,6 +6,7 @@ Included:
 -
 - Dark Souls Fix (DSFix) http://blog.metaclassofnil.com/
 - Dark Souls Mouse Fix (DSMFix) http://pages.cs.wisc.edu/~petska/
+- Some high-resolution texture mod
 
 Install:
 -
