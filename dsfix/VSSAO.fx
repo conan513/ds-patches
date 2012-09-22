@@ -7,8 +7,8 @@
 
 extern float scale = 1; //downsampling scale, 1 is highest quality but slowest
 extern float aoRadiusMultiplier = 1.0; //Linearly multiplies the radius of the AO Sampling
-extern float ThicknessModel = 80.0; //units in space the AO assumes objects' thicknesses are
-extern float FOV = 90; //Field of View in Degrees
+extern float ThicknessModel = 40.0; //units in space the AO assumes objects' thicknesses are
+extern float FOV = 75; //Field of View in Degrees
 extern float luminosity_threshold = 0.3;
 
 #ifndef SSAO_STRENGTH_LOW
@@ -20,17 +20,17 @@ extern float luminosity_threshold = 0.3;
 #endif
 
 #ifdef SSAO_STRENGTH_LOW
-extern float aoClamp = 0.7;
-extern float aoStrengthMultiplier = 0.7;
+extern float aoClamp = 0.75;
+extern float aoStrengthMultiplier = 0.6;
 #endif
 
 #ifdef SSAO_STRENGTH_MEDIUM
-extern float aoClamp = 0.45;
+extern float aoClamp = 0.5;
 extern float aoStrengthMultiplier = 0.8;
 #endif
 
 #ifdef SSAO_STRENGTH_HIGH
-extern float aoClamp = 0.1;
+extern float aoClamp = 0.2;
 extern float aoStrengthMultiplier = 1.2;
 #endif
 
@@ -256,9 +256,6 @@ float4 VBlur( VSOUT IN ) : COLOR0 {
 
 	//return lerp(blurred, color, factor);
 }
-
-static const float sampleWeights[3] = { 0.2270270270, 0.3162162162, 0.0702702703 };
-static const float sampleOffsets[3] = { 0.0, 1.3846153846, 3.2307692308 };
 
 float4 Combine( VSOUT IN ) : COLOR0 {
 	float3 color = tex2D(frameSampler, IN.UVCoord).rgb;
