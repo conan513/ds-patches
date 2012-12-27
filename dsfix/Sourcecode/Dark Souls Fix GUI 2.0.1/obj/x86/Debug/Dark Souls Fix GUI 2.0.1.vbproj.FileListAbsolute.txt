@@ -1,0 +1,23 @@
+C:\Users\Marben\AppData\Local\Temporary Projects\Dark Souls Fix GUI 2.0.1\bin\Debug\Dark Souls Fix GUI 2.0.1.exe
+C:\Users\Marben\AppData\Local\Temporary Projects\Dark Souls Fix GUI 2.0.1\bin\Debug\Dark Souls Fix GUI 2.0.1.pdb
+C:\Users\Marben\AppData\Local\Temporary Projects\Dark Souls Fix GUI 2.0.1\bin\Debug\Dark Souls Fix GUI 2.0.1.xml
+C:\Users\Marben\AppData\Local\Temporary Projects\Dark Souls Fix GUI 2.0.1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marben\AppData\Local\Temporary Projects\Dark Souls Fix GUI 2.0.1\obj\x86\Debug\Dark_Souls_Fix_GUI_2._0._1.Form1.resources
+C:\Users\Marben\AppData\Local\Temporary Projects\Dark Souls Fix GUI 2.0.1\obj\x86\Debug\Dark_Souls_Fix_GUI_2._0._1.Resources.resources
+C:\Users\Marben\AppData\Local\Temporary Projects\Dark Souls Fix GUI 2.0.1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marben\AppData\Local\Temporary Projects\Dark Souls Fix GUI 2.0.1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marben\AppData\Local\Temporary Projects\Dark Souls Fix GUI 2.0.1\obj\x86\Debug\Dark Souls Fix GUI 2.0.1.exe
+C:\Users\Marben\AppData\Local\Temporary Projects\Dark Souls Fix GUI 2.0.1\obj\x86\Debug\Dark Souls Fix GUI 2.0.1.xml
+C:\Users\Marben\AppData\Local\Temporary Projects\Dark Souls Fix GUI 2.0.1\obj\x86\Debug\Dark Souls Fix GUI 2.0.1.pdb
+C:\Users\Marben\documents\visual studio 2010\Projects\Dark Souls Fix GUI 2.0.1\Dark Souls Fix GUI 2.0.1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marben\documents\visual studio 2010\Projects\Dark Souls Fix GUI 2.0.1\Dark Souls Fix GUI 2.0.1\obj\x86\Debug\Dark_Souls_Fix_GUI_2._0._1.Form1.resources
+C:\Users\Marben\documents\visual studio 2010\Projects\Dark Souls Fix GUI 2.0.1\Dark Souls Fix GUI 2.0.1\obj\x86\Debug\Dark_Souls_Fix_GUI_2._0._1.Resources.resources
+C:\Users\Marben\documents\visual studio 2010\Projects\Dark Souls Fix GUI 2.0.1\Dark Souls Fix GUI 2.0.1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marben\documents\visual studio 2010\Projects\Dark Souls Fix GUI 2.0.1\Dark Souls Fix GUI 2.0.1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marben\Documents\Visual Studio 2010\Projects\Dark Souls Fix GUI 2.0.1\Dark Souls Fix GUI 2.0.1\bin\Debug\Dark Souls Fixed Edition v1.0.exe.config
+C:\Users\Marben\Documents\Visual Studio 2010\Projects\Dark Souls Fix GUI 2.0.1\Dark Souls Fix GUI 2.0.1\bin\Debug\Dark Souls Fixed Edition v1.0.exe
+C:\Users\Marben\Documents\Visual Studio 2010\Projects\Dark Souls Fix GUI 2.0.1\Dark Souls Fix GUI 2.0.1\bin\Debug\Dark Souls Fixed Edition v1.0.pdb
+C:\Users\Marben\Documents\Visual Studio 2010\Projects\Dark Souls Fix GUI 2.0.1\Dark Souls Fix GUI 2.0.1\bin\Debug\Dark Souls Fixed Edition v1.0.xml
+C:\Users\Marben\Documents\Visual Studio 2010\Projects\Dark Souls Fix GUI 2.0.1\Dark Souls Fix GUI 2.0.1\obj\x86\Debug\Dark Souls Fixed Edition v1.0.exe
+C:\Users\Marben\Documents\Visual Studio 2010\Projects\Dark Souls Fix GUI 2.0.1\Dark Souls Fix GUI 2.0.1\obj\x86\Debug\Dark Souls Fixed Edition v1.0.xml
+C:\Users\Marben\Documents\Visual Studio 2010\Projects\Dark Souls Fix GUI 2.0.1\Dark Souls Fix GUI 2.0.1\obj\x86\Debug\Dark Souls Fixed Edition v1.0.pdb
