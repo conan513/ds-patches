@@ -1,0 +1,14 @@
+v1.2 (2013-04-15):
+-- Fix crash with new versions of x360ce
+-- Fix crash with Windows XP
+-- Fix friend structure alignment (special thanks to InebreatedHobo for testing)
+   -- Fixes not being able to connect with friend period (with no messages in DSCfix.log)
+   -- Fixes possible issues with summoning two friend phantoms (since possibly only one friend would be connected to)
+   -- Possibly fixes issues where summoning would only work once
+-- Add FAQ section to Readme
+   
+v1.1 (2013-04-05):
+-- Fix "random" GFWL disconnections caused by unlocking achievements
+
+v1.0 (2013-04-01):
+-- Initial Release
