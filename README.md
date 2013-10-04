@@ -6,7 +6,7 @@ Included:
 -
 - Dark Souls Fix (DSFix) http://blog.metaclassofnil.com/
 - Dark Souls Mouse Fix (DSMFix) http://pages.cs.wisc.edu/~petska/
-- Dark Souls Updates from GFWL http://download.xbox.com/content/4e4d0fa1/tu10000083_10000183.cab
+- Dark Souls Updates from GFWL http://download.xbox.com/content/4e4d0fa1/tu10000082_10000282.cab
 
 Install:
 -
